@@ -1,0 +1,47 @@
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.exe
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.deps.json
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.runtimeconfig.json
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.runtimeconfig.dev.json
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.dll
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\ref\LINQ Demo.dll
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.pdb
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.csproj.AssemblyReference.cache
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.AssemblyInfoInputs.cache
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.AssemblyInfo.cs
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.dll
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\ref\LINQ Demo.dll
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.pdb
+D:\Route\Cycle 37\05 LINQ\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.genruntimeconfig.cache
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.exe
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.deps.json
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.runtimeconfig.json
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.runtimeconfig.dev.json
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.dll
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.pdb
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.csproj.AssemblyReference.cache
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.AssemblyInfoInputs.cache
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.AssemblyInfo.cs
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.csproj.CoreCompileInputs.cache
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.dll
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\refint\LINQ Demo.dll
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.pdb
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.genruntimeconfig.cache
+D:\web\backend\39\LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\ref\LINQ Demo.dll
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.exe
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.deps.json
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.runtimeconfig.json
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.runtimeconfig.dev.json
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.dll
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\bin\Debug\net5.0\LINQ Demo.pdb
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.AssemblyInfoInputs.cache
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.AssemblyInfo.cs
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.csproj.CoreCompileInputs.cache
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.dll
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\refint\LINQ Demo.dll
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.pdb
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\LINQ Demo.genruntimeconfig.cache
+D:\web\backend\39\03LinQ\Session 01\Demos\LINQ Demo Solution\LINQ Demo\obj\Debug\net5.0\ref\LINQ Demo.dll
